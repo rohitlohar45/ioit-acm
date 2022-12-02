@@ -12,7 +12,7 @@ import TeamFour from "../elements/team/TeamFour";
 import TimelineTwo from "../elements/timeline/TimelineTwo";
 import Separator from "../elements/separator/Separator";
 
-const AboutUs = () => {
+const Membership = () => {
     return (
         <>
             <SEO title="About Us" />
@@ -113,4 +113,4 @@ const AboutUs = () => {
     )
 }
 
-export default AboutUs;
+export default Membership;

@@ -5,68 +5,167 @@ import ScrollAnimation from "react-animate-on-scroll";
 
 const teamData = [
     {
-        image: 'team-01',
-        name: 'Sr Janen Sara',
-        designation: 'Sr Product Designer',
-        location: 'CO Miego, AD, USA', 
-        description: 'Yes, I am a product designer. I have a passion for product design.',
+        image: 'Faculty guide',
+        name: 'Dr. Meenakshi Thalor',
+        designation: 'Faculty Guide',
+        Location: 'Pune,India',
+        
         socialNetwork: [
             {
-                icon: <FiFacebook />,
-                url: '#'
+                icon: <FiLinkedin />,
+                url: 'https://in.linkedin.com/in/meenakshi-thalor-03937840'
             },
-            {
-                icon: <FiTwitter />,
-                url: '#'
-            },
-            {
-                icon: <FiInstagram />,
-                url: '#'
-            },
+           
         ]
        
     },
     {
-        image: 'team-02',
-        name: 'Afsana Nila',
-        designation: 'App Developer',
-        location: 'Bangladesh', 
-        description: 'Yes, I am a product designer. I have a passion for product design.',
+        image: 'Omkar Danave',
+        name: 'Omkar Danave',
+        designation: 'Chair',
+        Location: 'Pune,India',
+        
         socialNetwork: [
             {
-                icon: <FiFacebook />,
-                url: '#'
+                icon: <FiLinkedin />,
+                url: 'https://www.linkedin.com/in/omdanave'
             },
-            {
-                icon: <FiTwitter />,
-                url: '#'
-            },
+           
+        ]
+       
+    },
+    {
+        image: 'Anshika Singh',
+        name: 'Anshika Singh',
+        designation: 'Vice-Chair',
+        Location: 'Pune,India',
+        
+        socialNetwork: [
             {
                 icon: <FiLinkedin />,
-                url: '#'
+                url: 'https://www.linkedin.com/in/anshika-singh-374612212'
+            },
+           
+        ]
+       
+    },
+    {
+        image: 'Sharvin Shah',
+        name: 'Sharvin Shah',
+        designation: 'Secretary',
+        Location: 'Pune,India',
+        
+        socialNetwork: [
+            {
+                icon: <FiLinkedin />,
+                url: 'https://in.linkedin.com/in/meenakshi-thalor-03937840'
+            },
+           
+        ]
+       
+    },
+    {
+        image: 'yash yegare',
+        name: 'Yash Yegare',
+        designation: 'Treasurer',
+        Location: 'Pune,India',
+        
+        socialNetwork: [
+            {
+                icon: <FiLinkedin />,
+                url: 'https://www.linkedin.com/in/yashyegare'
+            },
+           
+        ]
+       
+    },
+    {
+        image: 'AVAL SONIGARA',
+        name: 'Aval Sonigara',
+        designation: 'Adminstrator',
+        Location: 'Pune,India',
+        
+        socialNetwork: [
+            {
+                icon: <FiLinkedin />,
+                url: 'https://www.linkedin.com/in/aval-sonigara-397718220'
+            },
+           
+        ]
+       
+    },
+    {
+        image: 'Rohit Lohar',
+        name: 'Rohit Lohar',
+        designation: 'Webmaster',
+        Location: 'Pune,India',
+        
+        socialNetwork: [
+            {
+                icon: <FiLinkedin />,
+                url: 'https://www.linkedin.com/in/loharrohit45'
+            },
+           
+        ]
+       
+    },
+    {
+        image: 'Anurag Gargote',
+        name: 'Anurag Gargote',
+        designation: 'Technical head',
+        Location: 'Pune,India',
+        
+        socialNetwork: [
+            {
+                icon: <FiLinkedin />,
+                url: 'https://www.linkedin.com/in/anurag-gargote-205204200'
+            },
+           
+        ]
+       
+    },
+    {
+        image: 'Akshita Ghanwat',
+        name: 'Akshita Ghanwat',
+        designation: 'Documentation head',
+        Location: 'Pune,India',
+        
+        socialNetwork: [
+            {
+                icon: <FiLinkedin />,
+                url: 'https://www.linkedin.com/in/akshitaghanwat'
+
+            },
+           
+        ]
+       
+    },
+    
+    {
+        image: 'Saadgi Pandey',
+        name: 'Saadgi Pandey',
+        designation: 'Media Head',
+        location: 'Pune,India', 
+        socialNetwork: [
+            {
+                icon: <FiLinkedin />,
+                url: 'https://www.linkedin.com/in/saadgi-pandey-ab9818224'
             },
         ]
       
     },
     {
-        image: 'team-03',
-        name: 'Afanan Sifa',
-        designation: 'Accounts Manager',
-        location: 'Poland', 
-        description: 'Yes, I am a product designer. I have a passion for product design.',
+        image: 'Lalita Bari',
+        name: 'Lalita Bari',
+        designation: 'Coordinator Head',
+        location: 'Pune.India', 
+        
         socialNetwork: [
             {
-                icon: <FiFacebook />,
-                url: '#'
+                icon: <FiLinkedin />,
+                url: 'https://www.linkedin.com/in/lalita-bari-175b9b227'
             },
-            {
-                icon: <FiTwitter />,
-                url: '#'
-            },
-            {
-                icon: <FiInstagram />,
-                url: '#'
-            },
+            
         ]
         
     },

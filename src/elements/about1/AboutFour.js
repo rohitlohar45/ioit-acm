@@ -1,6 +1,6 @@
 import React from 'react';
 import VideoTwo from '../video/VideoTwo';
-import video_pp from '../video/video_pp';
+//import video_pp from '../video/video_pp';
 import { FiCheck, FiGlobe, FiUser } from "react-icons/fi";
 
 

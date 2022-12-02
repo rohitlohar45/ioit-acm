@@ -14,7 +14,7 @@ import TeamTwo from '../elements/team/TeamTwo';
 import TestimonialThree from "../elements/testimonial/TestimonialThree";
 import SectionTitle from "../elements/sectionTitle/SectionTitle";
 import Separator from "../elements/separator/Separator";
-import Mission from "../elements/about/Mission";
+import Mission from "../elements/about1/Mission";
 import BlogList from "../components/blog/itemProp/BlogList";
 import BlogClassicData from '../data/blog/BlogList.json';
 var BlogListData = BlogClassicData.slice(0, 3);
