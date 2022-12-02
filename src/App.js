@@ -24,6 +24,7 @@ import Startup from "./pages/Startup";
 import WebAgency from "./pages/WebAgency";
 // import Home from "./pages/Home";
 import LoginPage from "./pages/Login";
+import Membership from "./pages/Membership";
 
 
 import CategoryList from "./pages/CategoryList";
@@ -99,7 +100,7 @@ const App = () => {
                     <Route path={`${process.env.PUBLIC_URL + "/startup"}`} exact component={Startup}/>
                     <Route path={`${process.env.PUBLIC_URL + "/web-agency"}`} exact component={WebAgency}/>
                     {/* <Route path={`${process.env.PUBLIC_URL + "/home"}`} exact component={Home}/> */}
-
+                    <Route path={`${process.env.PUBLIC_URL + "/membership"}`} exact component={Membership}/>
                     {/* Blog Part  */}
                     <Route path={`${process.env.PUBLIC_URL + "/blog-grid"}`} exact component={BlogGridView}/>
                     <Route path={`${process.env.PUBLIC_URL + "/blog-list-view"}`} exact component={BlogListView}/>
